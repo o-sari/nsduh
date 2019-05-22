@@ -1,0 +1,21 @@
+Feature	Importance	Description
+K6SCMON	0.06461362	A score indicating the level of psychological stress in past month. Range 0-24
+MHPDPHI2	0.032106016	Received MH TRT in past year
+SHSWFEA	0.029144509	last talked with school social worker in past year because afraid/tense
+ASDSWRK2	0.021045448	role impairment – ability to work
+YMDELT	0.02005608	Adolescent Major Depression Episode (MDE)
+ASDSHOM2	0.016217012	Role impairment – Home Management
+CIGYR	0.013423653	past year cigarette use
+IRPINC3	0.0130818	total income
+ASDSREL2	0.010785102	adult- role impairmnet- close rlshps
+DIFGETHER	0.010320976	important for friends to share religious beliefs
+CIGIRTBL	0.010272614	need to smoke to feel less irritable
+WRK35WKUS	0.010254906	usually work 35 or more hrs per week
+THERVST	0.010074559	important for friends to share religious beliefs
+SCHFELT	0.009464676	how did you feel about going to school in past year
+RKFQPBLT	0.009042592	wear a seatbelt when ride front pass seat of car
+SNYATTAK	0.008994746	Attacked someone with intent to seriously hurt them
+PRTALK3	0.008757513	have you talked with your parents about danger of tobacco/alcohol
+STMANYYR	0.008726575	any stimulants? Past year use. This does NOT refer to MISUSE
+UADPEOP	0.008695597	social context of most recent alcohol
+AVGGRADE	0.008123339	average grade for last grading period
