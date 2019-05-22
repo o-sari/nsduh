@@ -1,0 +1,21 @@
+Feature,Importance,Description
+K6SCMON,0.08158199,A score indicating the level of psychological stress in past month. Range 0-24
+MHPDPHI2,0.040973727,Received MH TRT in past year
+ASDSHOM2,0.032351814,Role impairment – Home Management
+CIGIRTBL,0.019316664,need to smoke to feel less irritable
+STMANYYR,0.0152790975,any stimulants? Past year use. This does NOT refer to MISUSE
+THERVST,0.013669166,Number of times visited therapist in past year
+YMDELT,0.013621515,Adolescent Major Depression Episode (MDE)
+SNYATTAK,0.013269825,Attacked someone with intent to seriously hurt them
+UADEVNT,0.012566748,most recent alcohol use. At concert or sports game
+SHSWFEA,0.011078016,last talked with school social worker in past year because afraid/tense
+YFLPKCG2,0.010282426,youth- how do you feel peer smoking pack/day cig
+YSDSHOME,0.009534488,youth- MDE role impairment. Errands at home
+RSKYFQDGR,0.009528234,get a real kick out of doing dangerous things
+RSKCOCWK,0.009511268,how much people harm themselves physically and in other ways when they use coc once or twice a week
+SCHFELT,0.00919281,how did you feel about going to school in past year
+ACOUNMDE,0.009155552,saw/talk to counselor abt depressive feelings in past year
+PRTALK3,0.008712838,have you talked with your parents about danger of tobacco/alcohol
+ARELMDE,0.0084196,adult- saw/talked to relig advisor about depres feelings in py
+ASDSREL2,0.008350461,adult- role impairmnet- close rlshps
+SMKLSSYR,0.008296222,smokeless tobacco past year use
