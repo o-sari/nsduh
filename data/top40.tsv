@@ -1,41 +1,41 @@
-Feature	Importance	Description
-K6SCMON	0.06461362	A score indicating the level of psychological stress in past month. Range 0-24
-MHPDPHI2	0.032106016	Received MH TRT in past year
-SHSWFEA	0.029144509	last talked with school social worker in past year because afraid/tense
-ASDSWRK2	0.021045448	role impairment – ability to work
-YMDELT	0.02005608	Adolescent Major Depression Episode (MDE)
-ASDSHOM2	0.016217012	Role impairment – Home Management
-CIGYR	0.013423653	past year cigarette use
-IRPINC3	0.0130818	total income
-ASDSREL2	0.010785102	adult- role impairmnet- close rlshps
-DIFGETHER	0.010320976	important for friends to share religious beliefs
-CIGIRTBL	0.010272614	need to smoke to feel less irritable
-WRK35WKUS	0.010254906	usually work 35 or more hrs per week
-THERVST	0.010074559	important for friends to share religious beliefs
-SCHFELT	0.009464676	how did you feel about going to school in past year
-RKFQPBLT	0.009042592	wear a seatbelt when ride front pass seat of car
-SNYATTAK	0.008994746	Attacked someone with intent to seriously hurt them
-PRTALK3	0.008757513	have you talked with your parents about danger of tobacco/alcohol
-STMANYYR	0.008726575	any stimulants? Past year use. This does NOT refer to MISUSE
-UADPEOP	0.008695597	social context of most recent alcohol
-AVGGRADE	0.008123339	average grade for last grading period
-RSKYFQTES	0.0072821034	like to test yourself by doing risky things
-RSKYFQDGR	0.0072625736	get a real kick out of doing dangerous things
-YSDSHOME	0.0068586715	youth- MDE role impairment. Errands at home
-AMDETXRX	0.0068278657	Received trt/cnslg or rx med for depres feeling in py
-MOVSINPYR2	0.006584673	# times moved past 12 months
-YOFIGHT2	0.0065068235	youth- had serious fight at school/work
-SEXATRACT	0.0062934477	sexual attraction
-IRKI17_2	0.006276938	# kids aged<18
-CGRYR	0.0061564245	past year cigar use
-PRPROUD2	0.0059435796	parents tell you theyre proud of things done in pst year
-RLGATTD	0.005831366	number of times attended religious services past year
-YFLPKCG2	0.005789746	youth- how do you feel peer smoking pack/day cig
-TCHGJOB	0.005372037	teacher let you know doing good job in pst year
-ARGUPAR	0.0048521864	times argued/had a fight with one parent in pst yr
-PARCHKHW	0.004802047	parents check if hw done in past year
-BMI2	0.004052572	body mass index
-RLGIMPT	0.003725736	religious beliefs very important in life
-RKFQDBLT	0.0034736693	seatbelt when you drive
-RLGFRND	0.003405682	important for friends to share religious beliefs
-RSKBNGWK	0.003396118	how much people risk harming themselves when they have 5 or more alch drinks once or twice a week
+Features	Importance	Description
+K6SCMON	0.054175645	A score indicating the level of psychological stress in past month. Range 0-24
+MHPDPHI2	0.035777315	Received MH TRT in past year
+SHSWFEA	0.032192007	last talked with school social worker in past year because afraid/tense
+THERVST	0.025348172	important for friends to share religious beliefs
+IRPINC3	0.017323053	total income
+AVGGRADE	0.013915031	average grade for last grading period
+ASDSREL2	0.012085102	adult- role impairmnet- close rlshps
+DIFGETHER	0.011473281	important for friends to share religious beliefs
+WRKSTATWK2	0.010671624	work situation in past week
+FRDPCIG2	0.0104777105	how do you feel your close friends feel about you smoking one or more packs of cigs a day?
+SCHFELT	0.00903763	how did you feel about going to school in past year
+PRPROUD2	0.008872006	parents tell you theyre proud of things done in pst year
+BMI2	0.008871402	body mass index
+RSKCOCWK	0.008870424	how much people harm themselves physically and in other ways when they use coc once or twice a week
+ASDSWRK2	0.008835311	role impairment – ability to work
+STMANYYR	0.008635711	any stimulants? Past year use. This does NOT refer to MISUSE
+MI_CAT_U	0.008549177	categorical mental illness indicator
+SNYATTAK	0.008412523	Attacked someone with intent to seriously hurt them
+UADROTH	0.008260384	most recent alcohol use at some other place
+YSDSWRK	0.007869689	youth- MDE role impairment. School or work
+PARCHKHW	0.007595418	parents check if hw done in past year
+RSKYFQTES	0.0075769913	like to test yourself by doing risky things
+ASDSHOM2	0.007265618	Role impairment – Home Management
+RSKHERWK	0.0072337403	how much do people risk harming themselves when they use heroin once or twice a week
+IREDUHIGHST2	0.0072260927	education level
+SMHANGR2	0.0070740976	received MH bc of anger control in past yr
+SMKLSSYR	0.006945247	smokeless tobacco past year use
+AMDEYR	0.0069354335	identifies an adult that had major depression last year
+YMDELT	0.0067702727	Adolescent Major Depression Episode (MDE)
+YFLPKCG2	0.006597599	youth- how do you feel peer smoking pack/day cig
+RSKYFQDGR	0.0065828664	get a real kick out of doing dangerous things
+MOVSINPYR2	0.0065763714	# times moved past 12 months
+HOMEVST	0.0063235094	# of times received in home counseling past year
+RSKHERTRY	0.0063153366	how much people harm themselves when they TRY heroin once or twice
+PRTALK3	0.0063117053	have you talked with your parents about danger of tobacco/alcohol
+AMDEHARX	0.0062599727	saw health prof and rx med for depres feelings in py
+RKFQPBLT	0.0062420145	wear a seatbelt when ride front pass seat of car
+RSKCOCMON	0.0061838934	how much do people risk harming themselves when they use coc once a month
+RSKMRJWK	0.0059455493	how much do people risk harming themselves when they mj once or twice a week
+SEXATRACT	0.005097109	sexual attraction
